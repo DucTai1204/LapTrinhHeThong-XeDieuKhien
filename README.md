@@ -48,10 +48,10 @@ Sử dụng app Bluetooth Terminal để gửi lệnh.
 
 ******Các lệnh điều khiển
 
-F / f	Tiến
-B / b	Lùi
-L / l	Rẽ trái
-R / r	Rẽ phải
+F / f	Tiến \n
+B / b	Lùi \n
+L / l	Rẽ trái \n
+R / r	Rẽ phải \n
 S / s	Dừng
 1-9	Điều chỉnh tốc độ (1 = chậm, 9 = nhanh nhất)
 
