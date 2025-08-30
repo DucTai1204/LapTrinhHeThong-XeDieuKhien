@@ -40,6 +40,8 @@ FreeRTOS (có sẵn trong ESP32).
 
 Upload code lên ESP32.
 
+![alt text](image-1.png)
+
 ******Cách sử dụng
 
 Dùng điện thoại kết nối Bluetooth đến thiết bị có tên: ESP32_BT_CAR
